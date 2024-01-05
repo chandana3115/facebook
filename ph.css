@@ -1,0 +1,89 @@
+* {
+    margin:0;
+    padding:0;
+    border: 10px;
+    background-color:azure;
+}
+h3{
+    border:1px;
+    margin:5px;
+    padding: 15px;
+    border-radius:4px;
+    background-color: antiquewhite;
+}
+#acidic
+{
+    margin-top: 20px;
+    padding:6px;
+    background-color: rgba(4, 20, 250, 0.945);
+}
+#acid1
+{
+    padding:6px;
+    background-color: rgb(19, 79, 243);
+}
+#acid2
+{
+    padding:6px;
+    background-color: rgb(17, 116, 247);
+}
+#acid3
+{
+    padding:6px;
+    background-color: rgb(28, 112, 238); 
+}
+#acid4
+{
+    padding:6px;
+    background-color: rgb(76, 127, 238);
+}
+#acid5
+{padding:6px;
+    background-color: rgb(97, 153, 236);
+}
+#acid6
+{
+    padding:6px;
+    background-color: rgb(138, 181, 245);
+}
+#acid7
+{
+    padding:6px;
+    background-color: rgb(78, 240, 151);
+}
+#acid8
+{
+    padding:6px;
+    background-color: rgb(235, 206, 236);
+}
+#acid9
+{
+    padding:6px;
+    background-color: rgb(238, 188, 238);
+}
+
+#acid10 {
+    padding:6px;
+    background-color: rgb(229, 132, 233);
+}
+#acid11
+{
+    padding:6px;
+    background-color: rgb(224, 110, 219);
+}
+#acid12
+{
+    padding:6px;
+    
+    background-color: rgb(214, 94, 204);
+}
+#acid13
+{
+    padding:6px;
+    background-color: rgb(206, 73, 195);
+}
+#acid14
+{
+    padding:6px;
+    background-color: rgb(228, 8, 217);
+}
